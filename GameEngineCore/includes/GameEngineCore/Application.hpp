@@ -1,3 +1,5 @@
+#pragma once
+
 namespace GameEngine {
 
 	class Application

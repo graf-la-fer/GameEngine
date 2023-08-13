@@ -1,5 +1,0 @@
-namespace GameEngine {
-
-	int CheckGLFW();
-
-}
